@@ -96,6 +96,10 @@ body{
 .aboutImage{
 	width:100%;
 }
+
+.slider{
+	margin-bottom: 1.5em;
+}
 .contact {
 	float:left;
 	width:6em;
